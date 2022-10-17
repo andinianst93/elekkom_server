@@ -6,8 +6,10 @@ const connectDB = require('./db/connect')
 const productsRouter = require('./routes/products')
 const errorHandler = require('./middleware/error-handler')
 const notFound = require('./middleware/not-found')
+const cors = require('cors')
 
 app.use(express.json())
+app.use(cors())
 
 app.get('/', (req, res) => {
   res.send('<h1> Store API</h1><a href ="/api/v1/products">products route</a>')
