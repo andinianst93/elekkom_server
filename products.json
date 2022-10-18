@@ -4,6 +4,7 @@
     "price": 1200,
     "company": "msi",
     "rating": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667759/msi-gf63_uld6yu.jpg"
   },
   {
@@ -11,6 +12,7 @@
     "price": 1300,
     "company": "apple",
     "rating": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667759/apple-macbook-air-2020._h9ldzb.jpg"
   },
   {
@@ -18,6 +20,7 @@
     "price": 600,
     "company": "dell",
     "rating": 4.9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667759/dell-inspiron-15-5515_p75zqd.jpg"
   },
   {
@@ -25,6 +28,7 @@
     "price": 2100,
     "company": "lenovo",
     "rating": 4.8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667758/lenovo-legion-5i-4gid_avnyav.webp"
   },
   {
@@ -32,6 +36,7 @@
     "price": 800,
     "company": "asus",
     "rating": 4.6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667760/asus-vivobook-pro-14x_mtu2ds.jpg"
   },
   {
@@ -39,12 +44,14 @@
     "price": 1700,
     "company": "msi",
     "rating": 4.55,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667758/msi-summit-e14_ptrr93.jpg"
   },
   {
     "name": "acer nitro 5",
     "price": 1200,
     "company": "acer",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667757/acer-nitro-5_hjosxf.jpg"
   },
   {
@@ -52,6 +59,7 @@
     "price": 1300,
     "featured": true,
     "company": "msi",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667759/msi-katana-gf66_apnnfe.jpg"
   },
   {
@@ -59,6 +67,7 @@
     "price": 1200,
     "featured": true,
     "company": "lenovo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667757/lenovo-gaming-3_db4olz.jpg"
   },
 
@@ -66,6 +75,7 @@
     "name": "asus rog g513rm",
     "price": 2200,
     "company": "asus",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667757/asus-rog-g513rm_ywt3ic.jpg"
   },
   {
@@ -73,36 +83,42 @@
     "price": 1500,
     "featured": true,
     "company": "apple",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667757/apple-macbook-pro-m2_fwb4p9.jpg"
   },
   {
     "name": "apple macbook air 2017",
     "price": 600,
     "company": "apple",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667756/apple-macbook-air-2017_nnkqoh.jpg"
   },
   {
     "name": "apple macbook pro m1 pro max 2021",
     "price": 2500,
     "company": "apple",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667760/asus-vivobook-pro-14x_mtu2ds.jpg"
   },
   {
     "name": "dell vostro 3405",
     "price": 1000,
     "company": "dell",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665742007/dell-vostro-3405_sgsxtx.jpg"
   },
   {
     "name": "dell inspiron 3511",
     "price": 545,
     "company": "dell",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665742044/dell-inspiron-3511_w1dsej.jpg"
   },
   {
     "name": "msi modern 14",
     "price": 621,
     "company": "msi",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665742081/msi-modern-14_cog9rx.jpg"
   },
   {
@@ -110,6 +126,7 @@
     "price": 1560,
     "featured": true,
     "company": "msi",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667757/msi-gf65-thin_dqgffw.jpg"
   },
   {
@@ -117,24 +134,28 @@
     "price": 4800,
     "featured": true,
     "company": "msi",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667752/msi-creator-z17_kvi5y9.jpg"
   },
   {
     "name": "asus tuf gaming f15",
     "price": 1555,
     "company": "asus",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667753/asus-tuf-gaming-f15_unmhjc.jpg"
   },
   {
     "name": "asus tuf gaming a15",
     "price": 1500,
     "company": "asus",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667754/asus-tuf-gaming-a15-1_g1t7at.jpg"
   },
   {
     "name": "asus tuf gaming a15",
     "price": 1600,
     "company": "asus",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667754/asus-tuf-gaming-a15-1_g1t7at.jpg"
   },
   {
@@ -142,6 +163,7 @@
     "price": 400,
     "featured": true,
     "company": "lenovo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667753/lenovo-ideapad-slim3i_we8dk6.jpg"
   },
   {
@@ -149,6 +171,7 @@
     "price": 1150,
     "featured": true,
     "company": "lenovo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est elit, varius ac vehicula sit amet, feugiat vitae lectus. Vivamus nec magna commodo, aliquam sapien non, lobortis purus. Sed et elit ipsum. Aliquam quis maximus lorem. Sed pretium elit in nisi suscipit laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam id tellus sed sapien malesuada sollicitudin nec id dui.",
     "image": "https://res.cloudinary.com/andinianst93/image/upload/v1665667753/lenovo-ideapad-slim3i-core-i7_q4zj3b.jpg"
   }
 ]

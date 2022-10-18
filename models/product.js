@@ -1,10 +1,13 @@
 const mongoose = require('mongoose')
-const imgPath = './images'
 
 const productSchema = new mongoose.Schema({
   name: {
     type: String,
     required: [true, 'product name must be provided'],
+  },
+  description: {
+    type: String,
+    required: [true, 'product description must be provided'],
   },
   price: {
     type: Number,
